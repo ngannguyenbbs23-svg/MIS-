@@ -33,6 +33,7 @@ The dataset was checked using Excel’s Remove Duplicates feature across all col
 <img width="475" height="107" alt="image" src="https://github.com/user-attachments/assets/307b47e0-7b63-4d73-b93c-2207c21a071a" /> 
 
 
+
 3. Descriptive Statistics
    
 3.1. Numerical Variables Summary
@@ -64,7 +65,9 @@ Table 3: Revenue by Product Category
 Figure 2: Total Revenue by Product Category
 
 The “Fruits” category generated the highest total revenue, contributing more than $8,000 in sales and recording the largest number of transactions among all product categories. This suggests that fruit products are highly demanded and play a significant role in the supermarket’s overall revenue performance.
+
 In contrast, the “Personal Care” category recorded the lowest total revenue and the fewest transactions. This may indicate lower customer demand compared to other product categories.
+
 Additionally, “Stationery” achieved the highest average revenue per transaction, suggesting that customers tend to spend more per purchase in this category.
 
 3.4. Revenue by Customer Type
@@ -78,6 +81,7 @@ Table 4: Revenue by Customer Type
 Figure 3: Total Revenue by Customer Type
 
 Member customers generated higher total revenue than normal customers, contributing approximately $17,939.55 in total sales. In addition, member customers also recorded a higher average revenue per transaction, indicating stronger purchasing behaviour.
+
 These findings suggest that loyalty membership programs may positively influence customer spending and overall sales performance. Encouraging more customers to become members could help increase long-term revenue growth.
 
 4. Key insights
